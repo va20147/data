@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="1" total="17" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="291510" started-at="2019-03-04T03:52:39Z" finished-at="2019-03-04T03:57:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="291510" started-at="2019-03-04T03:52:39Z" finished-at="2019-03-04T03:57:31Z">
+      <class name="com.salesforce.testcases.AccountsPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="SetUp" is-config="true" duration-ms="23603" started-at="2019-03-04T03:52:39Z" finished-at="2019-03-04T03:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="AccountLastActivityTest()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="AccountLastActivityTest" duration-ms="4843" started-at="2019-03-04T03:53:03Z" finished-at="2019-03-04T03:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountLastActivityTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="SetUp" is-config="true" duration-ms="13786" started-at="2019-03-04T03:53:08Z" finished-at="2019-03-04T03:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="MergeAccounts()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="MergeAccounts" duration-ms="1888" started-at="2019-03-04T03:53:21Z" finished-at="2019-03-04T03:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MergeAccounts -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="SetUp" is-config="true" duration-ms="15458" started-at="2019-03-04T03:53:23Z" finished-at="2019-03-04T03:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="NewAccountTest()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="NewAccountTest" duration-ms="2126" started-at="2019-03-04T03:53:39Z" finished-at="2019-03-04T03:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccountTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="SetUp" is-config="true" duration-ms="13227" started-at="2019-03-04T03:53:41Z" finished-at="2019-03-04T03:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="NewViewTest()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="NewViewTest" duration-ms="1038" started-at="2019-03-04T03:53:54Z" finished-at="2019-03-04T03:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewViewTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="SetUp" is-config="true" duration-ms="20493" started-at="2019-03-04T03:56:59Z" finished-at="2019-03-04T03:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="validateAccountsPageTitleTest()[pri:1, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="validateAccountsPageTitleTest" duration-ms="13" started-at="2019-03-04T03:57:19Z" finished-at="2019-03-04T03:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAccountsPageTitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.AccountsPageTest@234bef66]" name="TearDown" is-config="true" duration-ms="1" started-at="2019-03-04T03:57:31Z" finished-at="2019-03-04T03:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="TearDown" is-config="true" duration-ms="0" started-at="2019-03-04T03:57:31Z" finished-at="2019-03-04T03:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.salesforce.testcases.AccountsPageTest -->
+      <class name="com.salesforce.testcases.ProfilesPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="SetUp" is-config="true" duration-ms="14171" started-at="2019-03-04T03:53:55Z" finished-at="2019-03-04T03:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="SharePostTest()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="SharePostTest" duration-ms="775" started-at="2019-03-04T03:54:09Z" finished-at="2019-03-04T03:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SharePostTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="TearDown" is-config="true" duration-ms="327" started-at="2019-03-04T03:54:10Z" finished-at="2019-03-04T03:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="SetUp" is-config="true" duration-ms="15826" started-at="2019-03-04T03:54:10Z" finished-at="2019-03-04T03:54:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="UpLoadPictureTest()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="UpLoadPictureTest" duration-ms="10579" started-at="2019-03-04T03:54:26Z" finished-at="2019-03-04T03:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpLoadPictureTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="TearDown" is-config="true" duration-ms="302" started-at="2019-03-04T03:54:37Z" finished-at="2019-03-04T03:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="SetUp" is-config="true" duration-ms="19153" started-at="2019-03-04T03:54:37Z" finished-at="2019-03-04T03:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="UpdateProfileTest()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="UpdateProfileTest" duration-ms="2467" started-at="2019-03-04T03:54:56Z" finished-at="2019-03-04T03:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateProfileTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="TearDown" is-config="true" duration-ms="285" started-at="2019-03-04T03:54:59Z" finished-at="2019-03-04T03:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="SetUp" is-config="true" duration-ms="13469" started-at="2019-03-04T03:54:59Z" finished-at="2019-03-04T03:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="validateProfilesPageTitleTest()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="validateProfilesPageTitleTest" duration-ms="29" started-at="2019-03-04T03:55:12Z" finished-at="2019-03-04T03:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProfilesPageTitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.ProfilesPageTest@2cb4c3ab]" name="TearDown" is-config="true" duration-ms="572" started-at="2019-03-04T03:55:12Z" finished-at="2019-03-04T03:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.salesforce.testcases.ProfilesPageTest -->
+      <class name="com.salesforce.testcases.MySettingsPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="SetUp" is-config="true" duration-ms="14565" started-at="2019-03-04T03:55:30Z" finished-at="2019-03-04T03:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="FAIL" signature="CalendarAndRemindersTest()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="CalendarAndRemindersTest" duration-ms="769" started-at="2019-03-04T03:55:44Z" finished-at="2019-03-04T03:55:45Z">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[no such alert
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628411 (3324f4c8be9ff2f70a05a30ebc72ffb013e1a71e),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Manojs-MacBook-Pro.local', ip: '10.233.193.142', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628411 (3324f4c8be9ff2..., userDataDir: /var/folders/pv/y87w92yn0w3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53158}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 9543299307338f7828343f201ab55d07]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628411 (3324f4c8be9ff2f70a05a30ebc72ffb013e1a71e),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Manojs-MacBook-Pro.local', ip: '10.233.193.142', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628411 (3324f4c8be9ff2..., userDataDir: /var/folders/pv/y87w92yn0w3...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53158}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 9543299307338f7828343f201ab55d07
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+at com.salesforce.util.TestUtil.dismissalert(TestUtil.java:37)
+at com.salesforce.pages.MySettingsPage.CalendarAndReminders(MySettingsPage.java:89)
+at com.salesforce.testcases.MySettingsPageTest.CalendarAndRemindersTest(MySettingsPageTest.java:56)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalendarAndRemindersTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="SetUp" is-config="true" duration-ms="14332" started-at="2019-03-04T03:55:45Z" finished-at="2019-03-04T03:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="CustomizeTabsTest()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="CustomizeTabsTest" duration-ms="1570" started-at="2019-03-04T03:56:00Z" finished-at="2019-03-04T03:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomizeTabsTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="SetUp" is-config="true" duration-ms="17034" started-at="2019-03-04T03:56:01Z" finished-at="2019-03-04T03:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="DownloadHistoryTest()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="DownloadHistoryTest" duration-ms="1800" started-at="2019-03-04T03:56:18Z" finished-at="2019-03-04T03:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadHistoryTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="SetUp" is-config="true" duration-ms="17289" started-at="2019-03-04T03:56:20Z" finished-at="2019-03-04T03:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="EmailUpdateTest()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="EmailUpdateTest" duration-ms="4494" started-at="2019-03-04T03:56:37Z" finished-at="2019-03-04T03:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailUpdateTest -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="SetUp" is-config="true" duration-ms="16751" started-at="2019-03-04T03:56:42Z" finished-at="2019-03-04T03:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="validateMySettingsPageTitleTest()[pri:0, instance:com.salesforce.testcases.MySettingsPageTest@50f8360d]" name="validateMySettingsPageTitleTest" duration-ms="14" started-at="2019-03-04T03:56:59Z" finished-at="2019-03-04T03:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMySettingsPageTitleTest -->
+      </class> <!-- com.salesforce.testcases.MySettingsPageTest -->
+      <class name="com.salesforce.testcases.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="SetUp" is-config="true" duration-ms="16335" started-at="2019-03-04T03:55:13Z" finished-at="2019-03-04T03:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="LogOut" duration-ms="334" started-at="2019-03-04T03:55:29Z" finished-at="2019-03-04T03:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="TearDown" is-config="true" duration-ms="241" started-at="2019-03-04T03:55:30Z" finished-at="2019-03-04T03:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="SetUp" is-config="true" duration-ms="11167" started-at="2019-03-04T03:57:19Z" finished-at="2019-03-04T03:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="validateHomePageTitleTest()[pri:1, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="validateHomePageTitleTest" duration-ms="6" started-at="2019-03-04T03:57:30Z" finished-at="2019-03-04T03:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.salesforce.testcases.HomePageTest@737996a0]" name="TearDown" is-config="true" duration-ms="293" started-at="2019-03-04T03:57:30Z" finished-at="2019-03-04T03:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.salesforce.testcases.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
